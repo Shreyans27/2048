@@ -1,4 +1,4 @@
 # Content
 
-1.) py files
+Source code for the game
 
