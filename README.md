@@ -1,6 +1,6 @@
 # Implementation of 2048 Game using Data Structures and Algorithms
 
-## Description:
+## Description
 The project involves creating a digital implementation of the popular puzzle game "2048" using the Python programming language. The primary focus will be on employing data structures, algorithms, and the Tkinter library to develop an interactive and playable version of the game.
 
 ## Key Components and Features
